@@ -1,0 +1,6 @@
+matplotlib
+numpy
+scipy
+pypoman
+statsmodels
+os
